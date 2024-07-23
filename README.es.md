@@ -1,6 +1,4 @@
-
 ![logo](https://github.com/user-attachments/assets/d111f00a-8979-496c-bbfa-6cf31ec27469)
-
 Descripción del proyecto
 
 Este proyecto de Ciencia de Datos está estructurado en dos carpetas principales:
